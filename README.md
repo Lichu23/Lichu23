@@ -2,14 +2,14 @@
 
 <h2>👨‍💻Projects:</h2>
 
-- <b>Budget App(React, Typescript, ReactQuery tanstack and tailwind)</b>
-  - [Budget App](https://github.com/Lichu23/BudgetApp)
 - <b>MERN Stack Project(Authentication and An AI Chatbot SaaS Platform With React, Node, MongoDB, Express, Typescript)</b>
   - [Clon Chat GPT(frontend)](https://github.com/Lichu23/chat-gpt-frontend)
   - [Clon Chat GPT(backend)](https://github.com/Lichu23/chat-ai-backend/tree/main/src)
 - <b>MERN Stack App (React, SocketIO, Tailwind, Vite, and auth with MongoDB & Express) </b>
   - [Project Manager (frontend)](https://github.com/Lichu23/merntasks_frontend/blob/main/package.json)
   - [Project Manager (backend)](https://github.com/Lichu23/merntasks_backend/blob/main/package.json)
+  - <b>Budget App(React, Typescript, ReactQuery tanstack and tailwind)</b>
+  - [Budget App](https://github.com/Lichu23/BudgetApp)
 
 
 <h2> 🤳 Connect with me:</h2>
