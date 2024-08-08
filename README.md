@@ -11,7 +11,7 @@
   - <b>Budget App(React, Typescript, ReactQuery tanstack and tailwind)</b>
   - [Budget App](https://github.com/Lichu23/BudgetApp)
   - <b>Simple Cart Shop App(Cart Shop using API, useContext, localStorage and reducer)</b>
-  - [Cart Shop(https://github.com/Lichu23/Cart-Shop-v2/tree/main)]
+  - [Cart Shop](https://github.com/Lichu23/Cart-Shop-v2/tree/main)]
 
 
 <h2> 🤳 Connect with me:</h2>
