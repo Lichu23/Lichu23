@@ -10,8 +10,8 @@
   - [Project Manager (backend)](https://github.com/Lichu23/merntasks_backend/blob/main/package.json)
   - <b>Budget App(React, Typescript, ReactQuery tanstack and tailwind)</b>
   - [Budget App](https://github.com/Lichu23/BudgetApp)
-  - <b>Simple Cart Shop App(Cart Shop using API, useContext, localStorage and reducer)</b>
-  - [Cart Shop](https://github.com/Lichu23/Cart-Shop-v2/tree/main)
+  - <b>Simple Cart Shop App(Cart Shop using zustand and typescript)</b>
+  - [Cart Shop](https://github.com/Lichu23/Cart-training)
 
 
 <h2> 🤳 Connect with me:</h2>
