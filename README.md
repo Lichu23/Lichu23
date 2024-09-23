@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Projects:</h2>
 
-- <b>Video Conferencing App (React, Nextjs, Tailwind, Typescript, Clerk, GetStream.io):</b>
+- <b>Video Conferencing App (React, Nextjs, Tailwind, Typescript, Clerk, shadcnd and GetStream.io):</b>
   - [Video Conferencing App](https://github.com/Lichu23/video-conferencing-app)
    
 - <b>MERN Stack Project (Authentication and An AI Chatbot SaaS Platform With React, Node, MongoDB, Express, Typescript)</b>
