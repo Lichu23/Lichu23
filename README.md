@@ -5,7 +5,7 @@
 - <b>Video Conferencing App (React, Nextjs, Tailwind, Typescript, Clerk, shadcnd and GetStream.io):</b>
   - [Video Conferencing App](https://github.com/Lichu23/video-conferencing-app)
    
-- <b>MERN Stack Project (Authentication and An AI Chatbot SaaS Platform With React, Node, MongoDB, Express, Typescript)</b>
+- <b>Chat GPT Clone (Authentication and An AI Chatbot SaaS Platform With React, Node, MongoDB, Express, Typescript)</b>
   - [Clon Chat GPT(frontend)](https://github.com/Lichu23/chat-gpt-frontend)
   - [Clon Chat GPT(backend)](https://github.com/Lichu23/chat-ai-backend/tree/main/src)
    
