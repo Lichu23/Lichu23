@@ -11,8 +11,8 @@
    
   - <b>Budget App (React, Typescript, ReactQuery tanstack and tailwind)</b>
   - [Budget App](https://github.com/Lichu23/BudgetApp)
-  - <b>Simple Cart Shop App (Cart Shop using zustand and typescript)</b>
-  - [Cart Shop](https://github.com/Lichu23/Cart-training)
+  - <b>Chat-Realtime (in proccess)</b>
+  - [Chat Realtime](https://github.com/Lichu23/chat-realtime)
 
 
 <h2> 🤳 Connect with me:</h2>
