@@ -9,9 +9,9 @@
   - [Clon Chat GPT(frontend)](https://github.com/Lichu23/chat-gpt-frontend)
   - [Clon Chat GPT(backend)](https://github.com/Lichu23/chat-ai-backend/tree/main/src)
    
-  - <b>Table Favorites (React, Redux, MUI, styled-component, Typescript, RxJS and Clean Architecture)</b>
+- <b>Table Favorites (React, Redux, MUI, styled-component, Typescript, RxJS and Clean Architecture)</b>
   - [Test Table](https://github.com/Lichu23/FavoriteTable)
-  - <b>Chat-Realtime (in proccess)</b>
+- <b>Chat-Realtime (in process)</b>
   - [Chat Realtime](https://github.com/Lichu23/chat-realtime)
 
 
