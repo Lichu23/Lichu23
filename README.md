@@ -9,8 +9,8 @@
   - [Clon Chat GPT(frontend)](https://github.com/Lichu23/chat-gpt-frontend)
   - [Clon Chat GPT(backend)](https://github.com/Lichu23/chat-ai-backend/tree/main/src)
    
-  - <b>Budget App (React, Typescript, ReactQuery tanstack and tailwind)</b>
-  - [Budget App](https://github.com/Lichu23/BudgetApp)
+  - <b>Table Favorites (React, Redux, MUI, styled-component, Typescript, RxJS and Clean Architecture)</b>
+  - [Test Table](https://github.com/Lichu23/FavoriteTable)
   - <b>Chat-Realtime (in proccess)</b>
   - [Chat Realtime](https://github.com/Lichu23/chat-realtime)
 
