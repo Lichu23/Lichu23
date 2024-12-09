@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lisandro! <br/><a href="https://github.com/Lichu23">Programmer</a>, <a href="https://www.linkedin.com/in/lisandroarenas/">Frontend Developer</a></h1>
 
-<h2>👨‍💻Projects:</h2>
+<h2>👨‍💻Highlighted Projects:</h2>
 
 - <b>Video Conferencing App (React, Nextjs, Tailwind, Typescript, Clerk, shadcnd and GetStream.io):</b>
   - [Video Conferencing App](https://github.com/Lichu23/video-conferencing-app)
