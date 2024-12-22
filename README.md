@@ -9,7 +9,7 @@
   - [Clon Chat GPT(frontend)](https://github.com/Lichu23/chat-gpt-frontend)
   - [Clon Chat GPT(backend)](https://github.com/Lichu23/chat-ai-backend/tree/main/src)
  
-  -<b>Apple-Website (Vite, React, Tailwind, Threejs for models 3D and Gsap for animations.)</b>
+  <b>Apple-Website (Vite, React, Tailwind, Threejs for models 3D and Gsap for animations.)</b>
     - [Apple Website](https://github.com/Lichu23/Apple-Website)
    
 - <b>Table Favorites (React, Redux, MUI, styled-component, Typescript, RxJS and Clean Architecture)</b>
