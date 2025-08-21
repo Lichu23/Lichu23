@@ -2,6 +2,9 @@
 
 <h2>👨‍💻Highlighted Projects:</h2>
 
+- <b>BarberShop Multi Tenant (React, Nextjs, Tailwind, Typescript, Supabase, Google Calendar API, Resend, Stripe, Clerk)</b>
+  - [BarberShop Multi Tenant](https://github.com/Lichu23/barber-shop)
+
 - <b>Video Conferencing App (React, Nextjs, Tailwind, Typescript, Clerk, shadcnd and GetStream.io):</b>
   - [Video Conferencing App](https://github.com/Lichu23/video-conferencing-app)
    
@@ -11,7 +14,7 @@
  
 -  <b>Apple-Website (Vite, React, Tailwind, Threejs for models 3D and Gsap for animations.):</b>
     - [Apple Website](https://github.com/Lichu23/Apple-Website)
-   
+
 - <b>Table Favorites (React, Redux, MUI, styled-component, Typescript, RxJS and Clean Architecture)</b>
   - [Test Table](https://github.com/Lichu23/FavoriteTable)
 
