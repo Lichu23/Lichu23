@@ -11,12 +11,14 @@
 - <b>Chat GPT Clone (Authentication and An AI Chatbot SaaS Platform With React, Node, MongoDB, Express, Typescript)</b>
   - [Clon Chat GPT(frontend)](https://github.com/Lichu23/chat-gpt-frontend)
   - [Clon Chat GPT(backend)](https://github.com/Lichu23/chat-ai-backend/tree/main/src)
- 
+
+ - <b>Flowence (Supermarket & Warehouse Management PWA With Next.js, React, Node, Express, PostgreSQL, TypeScript)</b>
+  - [Flowence](https://github.com/Lichu23/Flowence)
+    
 -  <b>Apple-Website (Vite, React, Tailwind, Threejs for models 3D and Gsap for animations.):</b>
     - [Apple Website](https://github.com/Lichu23/Apple-Website)
 
-- <b>Table Favorites (React, Redux, MUI, styled-component, Typescript, RxJS and Clean Architecture)</b>
-  - [Test Table](https://github.com/Lichu23/FavoriteTable)
+
 
 
 
