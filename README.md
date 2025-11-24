@@ -5,6 +5,9 @@
 - <b>BarberShop Multi Tenant (React, Nextjs, Tailwind, Typescript, Supabase, Google Calendar API, Resend, Stripe, Clerk)</b>
   - [BarberShop Multi Tenant](https://github.com/Lichu23/barber-shop)
 
+ - <b>Flowence (Supermarket & Warehouse Management PWA With Next.js, React, Node, Express, PostgreSQL, TypeScript)</b>
+  - [Flowence](https://github.com/Lichu23/Flowence)
+
 - <b>Video Conferencing App (React, Nextjs, Tailwind, Typescript, Clerk, shadcnd and GetStream.io):</b>
   - [Video Conferencing App](https://github.com/Lichu23/video-conferencing-app)
    
@@ -12,8 +15,6 @@
   - [Clon Chat GPT(frontend)](https://github.com/Lichu23/chat-gpt-frontend)
   - [Clon Chat GPT(backend)](https://github.com/Lichu23/chat-ai-backend/tree/main/src)
 
- - <b>Flowence (Supermarket & Warehouse Management PWA With Next.js, React, Node, Express, PostgreSQL, TypeScript)</b>
-  - [Flowence](https://github.com/Lichu23/Flowence)
     
 -  <b>Apple-Website (Vite, React, Tailwind, Threejs for models 3D and Gsap for animations.):</b>
     - [Apple Website](https://github.com/Lichu23/Apple-Website)
