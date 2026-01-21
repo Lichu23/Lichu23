@@ -8,6 +8,9 @@
  - <b>Flowence (Supermarket & Warehouse Management PWA With Next.js, React, Node, Express, PostgreSQL, TypeScript)</b>
   - [Flowence](https://github.com/Lichu23/Flowence)
 
+  - <b>DeliFood – Delivery & Order Management Platform (React, Next.js, Node.js, Express, PostgreSQL, TypeScript, JWT)</b>
+  - [DeliFood](https://github.com/Lichu23/delifood)
+
 - <b>Video Conferencing App (React, Nextjs, Tailwind, Typescript, Clerk, shadcnd and GetStream.io):</b>
   - [Video Conferencing App](https://github.com/Lichu23/video-conferencing-app)
    
