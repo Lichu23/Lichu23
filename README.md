@@ -5,7 +5,7 @@
 - <b>BarberShop Multi Tenant (React, Nextjs, Tailwind, Typescript, Supabase, Google Calendar API, Resend, Stripe, Clerk)</b>
   - [BarberShop Multi Tenant](https://github.com/Lichu23/barber-shop)
 
- - <b>Flowence (Supermarket & Warehouse Management PWA With Next.js, React, Node, Express, PostgreSQL, TypeScript)</b>
+ - <b>Flowence (Supermarket & Warehouse Management With Next.js, React, Node, Express, PostgreSQL, TypeScript)</b>
   - [Flowence](https://github.com/Lichu23/Flowence)
 
   - <b>DeliFood – Delivery & Order Management Platform (React, Next.js, Node.js, Express, PostgreSQL, TypeScript, JWT, socket.io)</b>
