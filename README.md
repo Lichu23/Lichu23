@@ -5,11 +5,11 @@
 - <b>BarberShop Multi Tenant (React, Nextjs, Tailwind, Typescript, Supabase, Google Calendar API, Resend, Stripe, Clerk)</b>
   - [BarberShop Multi Tenant](https://github.com/Lichu23/barber-shop)
 
- - <b>Flowence (Supermarket & Warehouse Management With Next.js, React, Node, Express, PostgreSQL, TypeScript)</b>
-  - [Flowence](https://github.com/Lichu23/Flowence)
-
-  - <b>DeliFood – Delivery & Order Management Platform (React, Next.js, Node.js, Express, PostgreSQL, TypeScript, JWT, socket.io)</b>
+- <b>DeliFood – Delivery & Order Management Platform (React, Next.js, Node.js, Express, PostgreSQL, TypeScript, JWT, socket.io)</b>
   - [DeliFood](https://github.com/Lichu23/delifood)
+
+- <b>[Receiptr](https://github.com/Lichu23/receiptr) – WhatsApp AI Receipt Scanner (Node.js, Groq AI, WhatsApp API, Google Sheets API)</b>
+  - AI powered WhatsApp bot that scans receipts, extracts purchase data and automatically logs expenses into Google Sheets.
 
 - <b>Video Conferencing App (React, Nextjs, Tailwind, Typescript, Clerk, shadcnd and GetStream.io):</b>
   - [Video Conferencing App](https://github.com/Lichu23/video-conferencing-app)
