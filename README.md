@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lisandro! <br/><a href="https://github.com/Lichu23">Programmer</a>, <a href="https://www.linkedin.com/in/lisandroarenas/">Frontend Developer</a></h1>
+<h1>Hi, I'm Lisandro! <br/><a href="https://github.com/Lichu23">Programmer</a>, <a href="https://www.linkedin.com/in/lisandroarenas/">Full Stack Developer</a></h1>
 
 <h2>👨‍💻Highlighted Projects:</h2>
 
